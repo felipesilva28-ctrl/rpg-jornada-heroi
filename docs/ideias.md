@@ -4,5 +4,9 @@
 
 \- Inimigos
 
-\- Combate em turnos
+\- Combate em turno
+
+\- Mago
+
+\- Arqueiro
 
